@@ -232,7 +232,7 @@
             <Sensor Name="BIOS" Source="BIOS" Use="false" />
             <Sensor Name="RTMP" Source="EC" />
             <Sensor Name="TMP1" Source="EC" />
-            <Sensor Name="TNT2" Source="EC" />
+            <Sensor Name="TNT2" Source="EC" Use="false" />
             <Sensor Name="TNT3" Source="EC" />
             <Sensor Name="TNT4" Source="EC" />
             <Sensor Name="TNT5" Source="EC" />
@@ -267,3 +267,4 @@
     </Messages>
 
 </OmenMon>
+
