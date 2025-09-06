@@ -233,9 +233,8 @@
             <Sensor Name="RTMP" Source="EC" />
             <Sensor Name="TMP1" Source="EC" />
             <Sensor Name="TNT2" Source="EC" Use="false" />
-            <Sensor Name="TNT3" Source="EC" />
+            <Sensor Name="TNT3" Source="EC" Use="false" />
             <Sensor Name="TNT4" Source="EC" />
-            <Sensor Name="TNT5" Source="EC" />
         </Temperature>
 
         <!-- Update Interval -->
@@ -267,4 +266,5 @@
     </Messages>
 
 </OmenMon>
+
 
